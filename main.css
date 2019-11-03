@@ -122,7 +122,7 @@ slider > * {
 slide:nth-child(1){
     left: 0%;
     animation-delay: -1s;
-    background-image: url(https://i.ytimg.com/vi/q4q5wy21KEs/maxresdefault.jpg);
+    background-image: url(https://github.com/Neztle/neztle.github.io/blob/master/slide4.png);
     background-size: 100%;
     background-position: center;
    }
